@@ -1,0 +1,48 @@
+.header
+{
+    text-transform: capitalize;
+    width: 1000px;
+    height: 200px;
+    background-color: blue;
+    text-align: center;
+    font-size: larger;
+font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+padding: 40px;
+
+}
+.text
+{
+    text-transform: capitalize;
+    width: 1000px;
+    height: 200px;
+    background-color: rgba(255, 234, 0, 0.947);
+   margin: 80px; 
+   text-align: center;
+   font-size: larger;
+font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+padding-top: 30px;
+}
+body{
+    background-color: black;
+}
+.skills{
+    text-align: center;
+    padding: 0;
+    text-transform: capitalize;
+    width: 1000px;
+    height: 200px;
+    background-color: green;
+    font-size: larger;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+   
+}
+.skills li
+{
+    list-style: none; 
+    border: 2px solid #830909; 
+    padding: 5px; 
+    margin-bottom: 5px;
+    text-align: center;
+    font-size: larger;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
