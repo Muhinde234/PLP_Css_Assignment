@@ -46,3 +46,17 @@ body{
     font-size: larger;
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
 }
+.contact
+{
+    text-transform: capitalize;
+    width: 1000px;
+    height: 200px;
+    background-color: aqua;
+    text-align: center;
+    font-size: x-large;
+}
+.contact a
+{
+    text-transform: none;
+    text-decoration: none;
+}
